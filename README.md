@@ -1,3 +1,4 @@
+adb shell /data/app/~~T94fybhl0oCwOrgOEPeNjw==/moe.shizuku.privileged.api-dsuQdVw5IuGjvCk7E8Qn4A==/lib/arm64/libshizuku.so
 # Simple Thank You
 <img alt="Logo" src="graphics/icon.png" width="120" />
 
